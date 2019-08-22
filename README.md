@@ -20,7 +20,8 @@ adb shell busybox telnet 127.0.0.1:1080
 ```
 Refer to:
 
-https://android.googlesource.com/platform/development/+/master/cmds/monkey/README.NETWORK.txt>
+https://android.googlesource.com/platform/development/+/master/cmds/monkey/README.NETWORK.txt
+
 
 
 
@@ -42,7 +43,7 @@ use tkinter draw buttons and canvas for show screen
 
 Image example:
 
-![screen](image\screen.JPG)
+![screen](image/screen.JPG)
 
 
 
